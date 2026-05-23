@@ -337,8 +337,141 @@ Day56- 10.4.2026
             * Gather the workflow of how data goes from controller to service to repository then goes to database
               it goes like that.
 
-Day57- 13.4.2026
-
+Day57- 13.4.2026 
       Task Completed-
-            * Start to learn the design pattern and solid prinicipals why they used what is the syntex these types
-              of things.
+            * Start to learn the SOLID principles and design patterns to build a basic understanding for improving backend code 
+                  structure.
+
+Day58- 14.4.2026 
+      Task Completed-
+            * Studied Single Responsibility and Open/Closed Principles with examples and applied these ideas to Spring Boot 
+                  service layer design.
+
+Day59- 15.4.2026 
+      Task Completed-
+            * Continued learning Liskov Substitution and Interface Segregation principles, mentally refactoring basic service 
+                  structures for a cleaner architecture.
+
+Day60- 16.4.2026
+      Task Completed-
+            * Learned the Dependency Inversion Principle alongside basic design patterns like Factory and Singleton, 
+                  connecting them to real project use cases.
+
+Day61- 17.4.2026 
+      Task Completed-
+            * Practiced applying design patterns directly within the Spring Boot structure and started 
+                  planning scalable backend modules.
+
+Day62- 20.4.2026 
+      Task Completed-
+            * Started deep learning of Spring Data JPA, focusing on entities and relationships to accurately 
+                  map real database structures for projects.
+
+Day63- 21.4.2026 
+      Task Completed-
+            * Learned One-to-Many and Many-to-One relationships in JPA and designed a basic database schema 
+                  for an E-commerce and Job Posting system.
+
+Day64- 22.4.2026 
+      Task Completed-
+            * Practiced CRUD operations using Spring Data JPA repositories to improve backend data handling logic.
+
+Day65- 23.4.2026 
+      Task Completed-
+            * Explored the DTO (Data Transfer Object) pattern and request/response structuring to establish a 
+                  clean separation between the API layer and the database layer.
+
+Day66- 24.4.2026 
+      Task Completed-
+            * Implemented service layer improvements using DTO and validation concepts to prepare the structure 
+                  for real-world API design.
+
+Day67- 27.4.2026 
+      Task Completed-
+            * Started implementing exception handling in Spring Boot by creating global and custom exceptions 
+                  to improve API reliability.
+
+Day68- 28.4.2026 
+      Task Completed-
+            * Added data validation handling using annotations like @Valid and @NotNull to strengthen backend input safety.
+
+Day69- 29.4.2026 
+      Task Completed-
+            * Learned Spring Boot logging and debugging flows to improve the overall troubleshooting approach for APIs.
+
+Day70- 30.4.2026 
+      Task Completed-
+            * Explored authentication basics, understanding login flows and the security layer to plan future integration 
+                  for a secure job posting system.
+
+Day71- 1.5.2026 
+      Task Completed-
+            * Began the Capstone Project: Job Posting System. Designed the high-level architecture and defined core 
+                  modules including User, Jobs, and Applications.
+
+Day72- 4.5.2026 
+      Task Completed-
+            * Designed the database schema for the Job Posting system and defined relational links between the User,
+                  Recruiter, and Job entities.
+
+Day73- 5.5.2026 
+      Task Completed-
+            * Started backend implementation of the User module by building CRUD APIs, focusing on clean service-controller 
+                  separation.
+
+Day74- 6.5.2026 
+      Task Completed-
+            * Built the Job module APIs to create and fetch jobs, integrating validation checks and DTO structures.
+
+Day75- 7.5.2026 
+      Task Completed-
+            * Implemented the Application module to build the "apply for job" feature, connecting the underlying 
+                  user-job relationship logic.
+
+Day76- 8.5.2026 
+      Task Completed-
+            * Integrated all modules into a single, cohesive backend flow and successfully tested the basic end-to-end
+                  job posting workflow.
+
+Day77- 11.5.2026 
+      Task Completed-
+            * Started API testing using Postman, debugging issues to fix consistency errors in the backend flow.
+
+Day78- 12.5.2026 
+      Task Completed-
+            * Improved exception handling across the Job Posting system to make the APIs more stable, predictable, and clean.
+
+Day79- 13.5.2026 
+      Task Completed-
+            * Planned the integration structure and mapped out the frontend API consumption flow.
+
+Day80- 14.5.2026 
+      Task Completed-
+            * Worked on backend query optimizations and performance tuning to reduce redundant database calls.
+
+Day81- 15.5.2026 
+      Task Completed-
+            * Prepared the project for deployment by managing configurations, cleaning up code, and finalizing backend 
+                  readiness.
+
+Day82- 18.5.2026 
+      Task Completed-
+            * Set up the deployment environment, running Spring Boot builds and mapping environment configurations
+                  to prepare for the publish stage.
+
+Day83- 19.5.2026 
+      Task Completed-
+            * Focused on final bug fixing and API corrections to ensure a seamless, stable Job Posting workflow.
+
+Day84- 20.5.2026 
+      Task Completed-
+            * Completed final integration testing of the entire system, verifying that all modules work perfectly together.
+
+Day85- 21.5.2026 
+      Task Completed-
+            * Prepared final project documentation and structured explanations for the end-semester viva and project demonstration.
+
+Day86- 22.5.2026 
+      Task Completed-
+            * Finalized the capstone Job Posting project, completing the end-to-end backend development and marking 
+                  the project ready for submission.
